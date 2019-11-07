@@ -1,0 +1,3 @@
+[submodule "submodules/GoogleDrive.Core.DotnetCore"]
+	path = submodules/GoogleDrive.Core.DotnetCore
+	url = https://github.com/LouisChering/GoogleDrive.Core.DotnetCore.git

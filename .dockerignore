@@ -1,0 +1,11 @@
+.vscode/
+.git/
+bin/
+obj/
+drivers/
+submodules/**/bin/
+submodules/**/obj/
+azure-devops-build.sh
+gcloud-build.sh
+gcloud-run.sh
+readme.md

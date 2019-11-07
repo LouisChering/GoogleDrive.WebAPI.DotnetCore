@@ -1,0 +1,1 @@
+gcloud beta run deploy drive-api-dev --image gcr.io/$1/drive-web/api
