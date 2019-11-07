@@ -42,3 +42,8 @@ Run built image locally with volume for persistent credentials:
 ```
 docker run -d -p 8080:8080 -v credentials.json:/app/credentials.json -v token.json:/app/token.json --name mydriveapi drive-api
 ```
+### .Net Core
+Ensure you have copied *credentials.json* to the same folder as the built .dll.  Then run:
+```
+dotnet aspnetcore-2-webapi.dll
+```
